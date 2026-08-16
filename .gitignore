@@ -1,0 +1,23 @@
+# Build
+server_TCP
+server_TCP.exe
+client_TCP
+client_TCP.exe
+*.o
+*.obj
+*.exe
+
+# Eclipse
+.project
+.cproject
+.settings/
+Debug/
+Release/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
